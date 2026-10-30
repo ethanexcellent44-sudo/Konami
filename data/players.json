@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "players": [
+    {"id": "eth_001", "name": "Alex Rowan", "team_id": "ethan_fc", "position": "GK", "overall": 72, "rarity": "common", "stats": {"PAC": 67, "SHO": 18, "PAS": 62, "DRI": 59, "DEF": 28, "PHY": 68}},
+    {"id": "eth_002", "name": "Milo Hart", "team_id": "ethan_fc", "position": "RB", "overall": 68, "rarity": "common", "stats": {"PAC": 76, "SHO": 42, "PAS": 62, "DRI": 64, "DEF": 67, "PHY": 66}},
+    {"id": "eth_003", "name": "Noah Vale", "team_id": "ethan_fc", "position": "CB", "overall": 71, "rarity": "common", "stats": {"PAC": 63, "SHO": 35, "PAS": 61, "DRI": 56, "DEF": 74, "PHY": 75}},
+    {"id": "eth_004", "name": "Eli Mercer", "team_id": "ethan_fc", "position": "CB", "overall": 70, "rarity": "common", "stats": {"PAC": 65, "SHO": 31, "PAS": 63, "DRI": 58, "DEF": 72, "PHY": 73}},
+    {"id": "eth_005", "name": "Kai Bennett", "team_id": "ethan_fc", "position": "LB", "overall": 69, "rarity": "common", "stats": {"PAC": 78, "SHO": 39, "PAS": 65, "DRI": 67, "DEF": 66, "PHY": 64}},
+    {"id": "eth_006", "name": "Leo Finch", "team_id": "ethan_fc", "position": "CM", "overall": 73, "rarity": "rare", "stats": {"PAC": 70, "SHO": 66, "PAS": 78, "DRI": 74, "DEF": 67, "PHY": 68}},
+    {"id": "eth_007", "name": "Sam Ellis", "team_id": "ethan_fc", "position": "CM", "overall": 70, "rarity": "common", "stats": {"PAC": 68, "SHO": 62, "PAS": 73, "DRI": 70, "DEF": 68, "PHY": 69}},
+    {"id": "eth_008", "name": "Jude Parker", "team_id": "ethan_fc", "position": "CM", "overall": 72, "rarity": "common", "stats": {"PAC": 72, "SHO": 67, "PAS": 75, "DRI": 72, "DEF": 65, "PHY": 66}},
+    {"id": "eth_009", "name": "Max Calder", "team_id": "ethan_fc", "position": "RW", "overall": 74, "rarity": "rare", "stats": {"PAC": 83, "SHO": 72, "PAS": 69, "DRI": 80, "DEF": 38, "PHY": 61}},
+    {"id": "eth_010", "name": "Theo Lane", "team_id": "ethan_fc", "position": "ST", "overall": 76, "rarity": "rare", "stats": {"PAC": 79, "SHO": 81, "PAS": 63, "DRI": 76, "DEF": 32, "PHY": 76}},
+    {"id": "eth_011", "name": "Finn Brooks", "team_id": "ethan_fc", "position": "LW", "overall": 73, "rarity": "common", "stats": {"PAC": 81, "SHO": 70, "PAS": 68, "DRI": 78, "DEF": 36, "PHY": 60}},
+    {"id": "eth_012", "name": "Reed Collins", "team_id": "ethan_fc", "position": "GK", "overall": 66, "rarity": "common", "stats": {"PAC": 61, "SHO": 15, "PAS": 58, "DRI": 54, "DEF": 24, "PHY": 66}},
+    {"id": "eth_013", "name": "Ollie Banks", "team_id": "ethan_fc", "position": "CB", "overall": 67, "rarity": "common", "stats": {"PAC": 61, "SHO": 32, "PAS": 59, "DRI": 54, "DEF": 69, "PHY": 72}},
+    {"id": "eth_014", "name": "Tate Morgan", "team_id": "ethan_fc", "position": "CM", "overall": 71, "rarity": "rare", "stats": {"PAC": 72, "SHO": 65, "PAS": 74, "DRI": 71, "DEF": 64, "PHY": 67}},
+    {"id": "eth_015", "name": "Rory James", "team_id": "ethan_fc", "position": "RW", "overall": 69, "rarity": "common", "stats": {"PAC": 79, "SHO": 65, "PAS": 63, "DRI": 74, "DEF": 34, "PHY": 58}},
+    {"id": "eth_016", "name": "Caleb Moss", "team_id": "ethan_fc", "position": "ST", "overall": 70, "rarity": "common", "stats": {"PAC": 74, "SHO": 73, "PAS": 57, "DRI": 69, "DEF": 28, "PHY": 71}},
+    {"id": "hbr_001", "name": "Owen Shore", "team_id": "harbor_athletic", "position": "GK", "overall": 71, "rarity": "common", "stats": {"PAC": 65, "SHO": 16, "PAS": 64, "DRI": 56, "DEF": 27, "PHY": 70}},
+    {"id": "hbr_002", "name": "Rory Wells", "team_id": "harbor_athletic", "position": "RB", "overall": 69, "rarity": "common", "stats": {"PAC": 74, "SHO": 43, "PAS": 64, "DRI": 63, "DEF": 68, "PHY": 65}},
+    {"id": "hbr_003", "name": "Ari Sutton", "team_id": "harbor_athletic", "position": "CB", "overall": 72, "rarity": "rare", "stats": {"PAC": 66, "SHO": 36, "PAS": 66, "DRI": 59, "DEF": 76, "PHY": 77}},
+    {"id": "hbr_004", "name": "Nico Reed", "team_id": "harbor_athletic", "position": "CB", "overall": 70, "rarity": "common", "stats": {"PAC": 62, "SHO": 33, "PAS": 62, "DRI": 55, "DEF": 73, "PHY": 74}},
+    {"id": "hbr_005", "name": "Ezra Cole", "team_id": "harbor_athletic", "position": "LB", "overall": 68, "rarity": "common", "stats": {"PAC": 76, "SHO": 41, "PAS": 63, "DRI": 66, "DEF": 65, "PHY": 63}},
+    {"id": "hbr_006", "name": "Luca Hayes", "team_id": "harbor_athletic", "position": "RM", "overall": 71, "rarity": "common", "stats": {"PAC": 77, "SHO": 65, "PAS": 70, "DRI": 72, "DEF": 54, "PHY": 64}},
+    {"id": "hbr_007", "name": "Ira Quinn", "team_id": "harbor_athletic", "position": "CM", "overall": 73, "rarity": "rare", "stats": {"PAC": 69, "SHO": 68, "PAS": 79, "DRI": 72, "DEF": 69, "PHY": 70}},
+    {"id": "hbr_008", "name": "Remy Scott", "team_id": "harbor_athletic", "position": "CM", "overall": 69, "rarity": "common", "stats": {"PAC": 67, "SHO": 60, "PAS": 72, "DRI": 68, "DEF": 67, "PHY": 68}},
+    {"id": "hbr_009", "name": "Cody West", "team_id": "harbor_athletic", "position": "LM", "overall": 70, "rarity": "common", "stats": {"PAC": 78, "SHO": 63, "PAS": 68, "DRI": 73, "DEF": 52, "PHY": 62}},
+    {"id": "hbr_010", "name": "Jasper King", "team_id": "harbor_athletic", "position": "ST", "overall": 75, "rarity": "rare", "stats": {"PAC": 77, "SHO": 80, "PAS": 64, "DRI": 74, "DEF": 31, "PHY": 77}},
+    {"id": "hbr_011", "name": "Mason Gray", "team_id": "harbor_athletic", "position": "ST", "overall": 72, "rarity": "common", "stats": {"PAC": 75, "SHO": 76, "PAS": 60, "DRI": 72, "DEF": 29, "PHY": 74}}
+  ]
+}

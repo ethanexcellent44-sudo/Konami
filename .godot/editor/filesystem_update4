@@ -1,0 +1,9 @@
+res://scripts/match_rules_2d.gd
+res://scripts/football_player.gd
+res://scripts/main_menu.gd
+res://scripts/match_hud.gd
+res://scripts/match_world.gd
+res://scripts/virtual_touch_controls.gd
+res://tests/advanced_features_test.gd
+res://tests/match_flow_test.gd
+res://tests/player_controls_test.gd

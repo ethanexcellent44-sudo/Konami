@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "teams": [
+    {
+      "id": "ethan_fc",
+      "name": "Ethan FC",
+      "short_name": "ETH",
+      "primary_color": "#22e07a",
+      "secondary_color": "#0b1530",
+      "formation": "4-3-3",
+      "player_ids": ["eth_001", "eth_002", "eth_003", "eth_004", "eth_005", "eth_006", "eth_007", "eth_008", "eth_009", "eth_010", "eth_011"],
+      "reserve_ids": ["eth_012", "eth_013", "eth_014", "eth_015", "eth_016"]
+    },
+    {
+      "id": "harbor_athletic",
+      "name": "Harbor Athletic",
+      "short_name": "HBR",
+      "primary_color": "#f0a500",
+      "secondary_color": "#0b1530",
+      "formation": "4-4-2",
+      "player_ids": ["hbr_001", "hbr_002", "hbr_003", "hbr_004", "hbr_005", "hbr_006", "hbr_007", "hbr_008", "hbr_009", "hbr_010", "hbr_011"]
+    }
+  ]
+}

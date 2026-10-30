@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#07150f"/>
+  <path d="M0 545h1280" stroke="#d9a42e" stroke-width="5"/>
+  <path d="M0 552h1280" stroke="#214b36" stroke-width="2"/>
+  <circle cx="640" cy="344" r="232" fill="none" stroke="#204b35" stroke-width="3"/>
+  <path d="m640 151 136 49v106c0 91-52 151-136 188-84-37-136-97-136-188V200z" fill="#123a29" stroke="#d9a42e" stroke-width="10"/>
+  <circle cx="640" cy="297" r="60" fill="#f4f3e8" stroke="#d9a42e" stroke-width="6"/>
+  <path d="m640 265 19 14-8 22h-22l-8-22zM604 293l15 7 1 20-18 9-15-15 5-18zM676 293l12 3 6 18-15 15-18-9 1-20zM617 334l15-9h16l15 9-6 19h-34z" fill="#17231d"/>
+  <text x="640" y="466" text-anchor="middle" fill="#f4f3e8" font-family="sans-serif" font-size="70" font-weight="800">ETHAN</text>
+  <text x="640" y="505" text-anchor="middle" fill="#d9a42e" font-family="sans-serif" font-size="22" letter-spacing="6">FOOTBALL CLUB</text>
+</svg>
